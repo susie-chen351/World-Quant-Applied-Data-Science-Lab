@@ -1,6 +1,6 @@
 # World Quant Applied Data Science Lab
 
-Throughout the program, I had worked on eight fascinating projects, each designed to enhance my understanding and practical application of key data science concepts. LThe following is a brief explanation of each project:
+Throughout the program, I worked on eight fascinating projects, each designed to enhance my understanding and practical application of key data science concepts. The following is a brief explanation of each project:
 
 
 1- 𝗛𝗢𝗨𝗦𝗜𝗡𝗚 𝗜𝗡 𝗠𝗘𝗫𝗜𝗖𝗢: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
