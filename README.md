@@ -1,12 +1,9 @@
 # World Quant Applied Data Science Lab
 
-Throughout the program, I worked on eight fascinating projects, each designed to enhance my understanding and practical application of key data science concepts. The following is a brief explanation of each project:
+Throughout the program, I worked on the following projects, each designed to enhance my understanding and practical application of key data science concepts. The following is a brief explanation of each project:
 
 
-1- 𝗛𝗢𝗨𝗦𝗜𝗡𝗚 𝗜𝗡 BRAZIL: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
-
-
-2- 𝗔𝗣𝗔𝗥𝗧𝗠𝗘𝗡𝗧 𝗦𝗔𝗟𝗘𝗦 𝗜𝗡 𝗕𝗨𝗘𝗡𝗢𝗦 𝗔𝗜𝗥𝗘𝗦: Learners build a linear regression model to predict apartment prices in Argentina. They create a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
+1- 𝗔𝗣𝗔𝗥𝗧𝗠𝗘𝗡𝗧 𝗦𝗔𝗟𝗘𝗦 𝗜𝗡 𝗕𝗨𝗘𝗡𝗢𝗦 𝗔𝗜𝗥𝗘𝗦: I built a linear regression model to predict apartment prices in Argentina. I created a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
 
 
 3- 𝗔𝗜𝗥 𝗤𝗨𝗔𝗟𝗜𝗧𝗬 𝗜𝗡 𝗡𝗔𝗜𝗥𝗢𝗕𝗜: Learners build an ARMA time-series model to predict particulate matter levels in Kenya. They extract data from a MongoDB database using pymongo, and improve model performance through hyperparameter tuning.
