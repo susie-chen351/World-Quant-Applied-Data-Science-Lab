@@ -26,4 +26,12 @@ New Concepts Learned:
 - How to query a SQL database.
 - How to build a logistic regression model for classification.
 - How to build a decision tree model.
-- How to incorporate ethical considerations into model building. 
+- How to incorporate ethical considerations into model building.
+
+4- Bankruptcy in Taiwan
+
+New Concepted Learned:
+- Navigate a file system from the Linux command line
+- Address imbalanced data using resampling techniques
+- Evaluate a model using classification metrics like precision and recall
+
