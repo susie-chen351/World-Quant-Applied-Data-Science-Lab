@@ -30,8 +30,10 @@ New Concepts Learned:
 
 4- Bankruptcy in Taiwan
 
-New Concepted Learned:
-- Navigate a file system from the Linux command line
-- Address imbalanced data using resampling techniques
-- Evaluate a model using classification metrics like precision and recall
+New Concepted Learned: I examined financial indicators from Taiwan, and built a model that predicts whether a company will go bankrupt or not.
+
+New Concepts Learned:
+- Navigate a file system from the Linux command line.
+- Address imbalanced data using resampling techniques.
+- Evaluate a model using classification metrics like precision and recall.
 
