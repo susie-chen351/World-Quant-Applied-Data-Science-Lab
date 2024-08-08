@@ -28,9 +28,7 @@ New Concepts Learned:
 - How to build a decision tree model.
 - How to incorporate ethical considerations into model building.
 
-4- Bankruptcy in Taiwan
-
-New Concepted Learned: I examined financial indicators from Taiwan, and built a model that predicts whether a company will go bankrupt or not.
+4- Bankruptcy in Taiwan: I examined financial indicators from Taiwan, and built a model that predicts whether a company will go bankrupt or not.
 
 New Concepts Learned:
 - Navigate a file system from the Linux command line.
@@ -38,3 +36,11 @@ New Concepts Learned:
 - Address imbalanced data using resampling techniques.
 - Evaluate a model using classification metrics like precision and recall.
 
+5- Customer Segmentation in USA: I worked with 2019 consumer finance data from the US Federal Reserve to build an unsupervised model that segments credit-fearful households. I built an interactive webapp to share the work. 
+
+New Concepts Learned:
+- Compare characteristics across subgroups using a side-by-side bar chart.
+- Build a k-means clustering model.
+- Conduct feature selection for clustering based on variance.
+- Reduce high-dimensional data using principal component analysis (PCA).
+- Design, build and deploy a Dash web application.
