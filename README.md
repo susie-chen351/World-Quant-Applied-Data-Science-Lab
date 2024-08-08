@@ -34,6 +34,7 @@ New Concepted Learned: I examined financial indicators from Taiwan, and built a 
 
 New Concepts Learned:
 - Navigate a file system from the Linux command line.
+- Save and load a Python file. 
 - Address imbalanced data using resampling techniques.
 - Evaluate a model using classification metrics like precision and recall.
 
