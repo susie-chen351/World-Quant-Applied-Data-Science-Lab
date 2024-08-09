@@ -43,4 +43,3 @@ New Concepts Learned:
 - Build a k-means clustering model.
 - Conduct feature selection for clustering based on variance.
 - Reduce high-dimensional data using principal component analysis (PCA).
-- Design, build and deploy a Dash web application.
