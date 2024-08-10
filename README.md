@@ -3,7 +3,7 @@
 Throughout the program, I worked and will work on various projects, which I will document my learning and growth here in this repo. Each project is designed to enhance my understanding and practical application of key data science concepts. The following is a brief explanation of each project:
 
 
-1- Predicting Apartment Prices in Mexico City: I built a linear regression model to predict apartment prices in Mexico City. I created a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
+1- Predicting Apartment Prices in Mexico City: I built a linear regression model to predict apartment prices in Mexico City. I created a data pipeline to impute missing values and encoded categorical features. 
 
 New Concepts Learned:
 - How to create a linear regression model using the scikit-learn library.
